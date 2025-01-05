@@ -26,9 +26,11 @@
 - **★★★★☆**: _Advanced_ — In-depth, certification-level content.
 - **★★★★★**: _Expert_ — Highly specialized, research-level material.
 
+![Golden Star](https://via.placeholder.com/15/f5c518/000000?text=+)☆☆☆☆ — Beginner
+
 ### 1 — Basics
 
-<span style="color: gold;">★☆☆☆☆ — Beginner</span>
+#### ★☆☆☆☆ — Beginner
 
 **[History of Networking](https://rule11.tech/history-of-networking-3/)**  
 Learn about the evolution and milestones in the development of networking technologies.
