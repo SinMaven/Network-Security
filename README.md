@@ -20,13 +20,11 @@
 
 ### Key to Star Levels
 
-| **Stars** | **Level**        | **Description**                                                                                 | **Examples**                                                             |
-| --------- | ---------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| **★☆☆☆☆** | **Beginner**     | Resources for absolute beginners. No prior knowledge required.                                  | History of networking, basic introductions.                              |
-| **★★☆☆☆** | **Foundational** | Resources for learners who are just starting out. Assumes no prior knowledge but builds basics. | Introductory playlists, beginner-friendly tutorials.                     |
-| **★★★☆☆** | **Intermediate** | Resources for learners with some experience. Assumes familiarity with basic concepts.           | Textbooks, structured courses, and foundational assignments.             |
-| **★★★★☆** | **Advanced**     | Resources for learners with solid understanding. Assumes prior knowledge and practical skills.  | Certification-level content (e.g., CCNA), university-level assignments.  |
-| **★★★★★** | **Expert**       | Resources for highly experienced learners. Assumes deep knowledge and advanced problem-solving. | Advanced coursework, research-level assignments, and specialized topics. |
+- **★☆☆☆☆**: _Beginner_ — No prior knowledge required.
+- **★★☆☆☆**: _Foundational_ — Basic concepts, beginner-friendly.
+- **★★★☆☆**: _Intermediate_ — Requires some prior knowledge.
+- **★★★★☆**: _Advanced_ — In-depth, certification-level content.
+- **★★★★★**: _Expert_ — Highly specialized, research-level material.
 
 ### 1 — Basics
 
