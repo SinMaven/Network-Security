@@ -30,14 +30,15 @@
 
 ### 1 — Basics
 
-— [History](https://rule11.tech/history-of-networking-3/)
-— [Introduction — 0](https://www.youtube.com/playlist?list=PLoCMsyE1cvdWKsLVyf6cPwCLDIZnOj0NS)
-— [Introduction — 1](https://www.youtube.com/playlist?list=PLVEo1P9gAninM7KwP1KKolfMQdNs6P6Am)
-— [CCNA 200-301](https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)
-
-— [Top-Down Appraoch](https://www.ucg.ac.me/skladiste/blog_44233/objava_64433/fajlovi/Computer%20Networking%20_%20A%20Top%20Down%20Approach,%207th,%20converted.pdf)
-— [Assignment — 0](https://www.scs.stanford.edu/10au-cs144/)
-— [Assignment — 1](https://github.com/feamster/COS461-Public)
+| **Level** | **Resource**                                                                                                                                                                              | **Description**                                                                            |
+| --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| ★☆☆☆☆     | [History of Networking](https://rule11.tech/history-of-networking-3/)                                                                                                                     | Learn about the evolution and milestones in the development of networking technologies.    |
+| ★★☆☆☆     | [Introduction — 0](https://www.youtube.com/playlist?list=PLoCMsyE1cvdWKsLVyf6cPwCLDIZnOj0NS)                                                                                              | A beginner-friendly video playlist introducing the fundamentals of networking.             |
+| ★★☆☆☆     | [Introduction — 1](https://www.youtube.com/playlist?list=PLVEo1P9gAninM7KwP1KKolfMQdNs6P6Am)                                                                                              | Another comprehensive playlist for understanding the basics of networking concepts.        |
+| ★★★☆☆     | [Computer Networking: A Top-Down Approach](https://www.ucg.ac.me/skladiste/blog_44233/objava_64433/fajlovi/Computer%20Networking%20_%20A%20Top%20Down%20Approach,%207th,%20converted.pdf) | A textbook providing a top-down perspective on computer networking concepts.               |
+| ★★★★☆     | [CCNA 200-301](https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)                                                                                                  | A detailed video series covering the CCNA 200-301 certification syllabus for networking.   |
+| ★★★★☆     | [Assignment — 0](https://www.scs.stanford.edu/10au-cs144/)                                                                                                                                | A set of assignments from Stanford University to practice networking concepts.             |
+| ★★★★★     | [Assignment — 1](https://github.com/feamster/COS461-Public)                                                                                                                               | Public repository containing advanced assignments and resources for networking coursework. |
 
 <p align="center">
 Made with ❤️ SinMaven, 2024
