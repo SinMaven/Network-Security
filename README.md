@@ -42,7 +42,7 @@
 - [Follow-up Material 1](https://github.com/nsalab-tmn/learn-ccna1)
 - [Follow-up Material 2](https://github.com/manjunath5496/CCNA-CCNP-Books?tab=readme-ov-file)
 
-### **2 — Challenges**
+### **— Challenges**
 
 - **[Root Me](https://www.root-me.org/en/Challenges/Network/)**  
   Network-related challenges to test and improve your skills.
@@ -56,37 +56,7 @@
 - **[Packet Tracer Labs](https://www.youtube.com/playlist?list=PLxbwE86jKRgMQ4HTuaJ7yQgA2BoNwY9ct)**  
   Hands-on labs using Cisco Packet Tracer for network simulation.
 
-### **3 — Projects**
-
-1. **Encryption and Decryption using Transposition Algorithm**  
-   Implement a transposition algorithm from scratch and perform a brute-force attack.
-
-2. **Encryption and Decryption using AES Algorithm**  
-   Implement the AES algorithm from scratch for secure data encryption.
-
-3. **Public Key Distribution Authority**  
-   Proof of concept implementation of a Public Key Distribution Authority.
-
-4. **Distributed Digital Driver License Verification System**  
-   Proof of concept implementation of a distributed digital driver license system.
-
-5. **DNS Packet Capture and Fields Parsing**  
-   Capture DNS packets and parse fields for byte-level malicious detection.
-
-6. **Dynamic ARP Inspection Module**  
-   Develop a module for dynamic ARP inspection to prevent ARP spoofing.
-
-7. **ARP Request-Reply Attack Defense (WEP)**  
-   Implement defenses against ARP request-reply attacks in WEP networks.
-
-8. **DDoS Mitigation (iptables, Bloom Filters, LPM Trie)**  
-   Mitigate DDoS attacks using iptables, Bloom filters, and longest prefix match tries.
-
-9. **Traffic Fingerprinting of TLS Flows (Markov Chains)**  
-   Analyze and fingerprint TLS traffic using Markov chains.
-
-10. **IPS for SYN Flood Mitigations**  
-    Implement an Intrusion Prevention System (IPS) for SYN flood mitigations.
+### **2 — Intermediate**
 
 <p align="center">
 Made with ❤️ SinMaven, 2024
