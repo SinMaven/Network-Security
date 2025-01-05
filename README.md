@@ -28,7 +28,7 @@
 
 ### 1 — Basics
 
-#### ★☆☆☆☆ — Beginner
+#### <span style="color: gold;">★☆☆☆☆ — Beginner</span>
 
 **[History of Networking](https://rule11.tech/history-of-networking-3/)**  
 Learn about the evolution and milestones in the development of networking technologies.
