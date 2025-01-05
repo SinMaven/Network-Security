@@ -16,7 +16,9 @@
 
 ![#7(34)](https://github.com/user-attachments/assets/a8df6ae6-f584-4ace-ba8f-42c057f4439f)
 
-## Networking basics أســـاسـيّــاتُ الشَّبَكَـــاتِ
+<br>
+
+### Networking basics
 
 <p align="center">
 Made with ❤️ SinMaven, 2024
