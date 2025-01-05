@@ -18,6 +18,14 @@
 
 <br>
 
+### Key:
+
+- **★**: Beginner (basic concepts, history, introductions)
+- **★★**: Foundational (introductory playlists and resources)
+- **★★★**: Intermediate (textbooks and structured learning)
+- **★★★★**: Advanced (certification-level content, practical assignments)
+- **★★★★★**: Expert (advanced assignments and in-depth coursework)
+
 ### 1 — Basics
 
 — [History](https://rule11.tech/history-of-networking-3/)
@@ -26,8 +34,8 @@
 — [CCNA 200-301](https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)
 
 — [Top-Down Appraoch](https://www.ucg.ac.me/skladiste/blog_44233/objava_64433/fajlovi/Computer%20Networking%20_%20A%20Top%20Down%20Approach,%207th,%20converted.pdf)
-  — [Assignment — 0](https://www.scs.stanford.edu/10au-cs144/)
-  — [Assignment — 1](https://github.com/feamster/COS461-Public)
+— [Assignment — 0](https://www.scs.stanford.edu/10au-cs144/)
+— [Assignment — 1](https://github.com/feamster/COS461-Public)
 
 <p align="center">
 Made with ❤️ SinMaven, 2024
