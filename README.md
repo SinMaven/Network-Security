@@ -20,11 +20,11 @@
 
 ### Key to Star Levels
 
-- **★☆☆☆☆**: _Beginner_ — No prior knowledge required.
+- **★☆☆☆☆**: _Beginner_     — No prior knowledge required.
 - **★★☆☆☆**: _Foundational_ — Basic concepts, beginner-friendly.
 - **★★★☆☆**: _Intermediate_ — Requires some prior knowledge.
-- **★★★★☆**: _Advanced_ — In-depth, certification-level content.
-- **★★★★★**: _Expert_ — Highly specialized, research-level material.
+- **★★★★☆**: _Advanced_     — In-depth, certification-level content.
+- **★★★★★**: _Expert_       — Highly specialized, research-level material.
 
 ### **1 — Basics**
 
@@ -63,11 +63,13 @@
 [High Performance BN](https://hpbn.co/)
 [Beej's Guide](https://beej.us/guide/bgnet/html/index-wide.html)
 [Nmap course](https://youtu.be/f6gwr333RZM)
+[TCP/IP V1](https://www.oreilly.com/library/view/tcpip-illustrated-volume/9780132808200/)
 
 ### _Extra_
 
-- [Follow-up material — 0](https://github.com/benpiper/ccnp-enterprise?tab=readme-ov-file)
+- [Follow-up Material — 0](https://github.com/benpiper/ccnp-enterprise?tab=readme-ov-file)
 - [Follow-up Material — 1](https://github.com/manjunath5496/CCNA-CCNP-Books?tab=readme-ov-file)
+- [Follow-up Material — 2](https://www.ciscopress.com/store/routing-tcp-ip-volume-1-9781587052026)
 
 <p align="center">
 Made with ❤️ SinMaven, 2024
