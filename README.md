@@ -20,11 +20,11 @@
 
 ### Key to Star Levels
 
-- **★☆☆☆☆**: _Beginner_     — No prior knowledge required.
+- **★☆☆☆☆**: _Beginner_ — No prior knowledge required.
 - **★★☆☆☆**: _Foundational_ — Basic concepts, beginner-friendly.
 - **★★★☆☆**: _Intermediate_ — Requires some prior knowledge.
-- **★★★★☆**: _Advanced_     — In-depth, certification-level content.
-- **★★★★★**: _Expert_       — Highly specialized, research-level material.
+- **★★★★☆**: _Advanced_ — In-depth, certification-level content.
+- **★★★★★**: _Expert_ — Highly specialized, research-level material.
 
 ### **1 — Basics**
 
@@ -59,11 +59,13 @@
 
 ### **2 — Intermediate**
 
-[CCNP v1.1 350-401](https://www.youtube.com/playlist?list=PLxbwE86jKRgOb2uny1CYEzyRy_mc-lE39)
-[High Performance BN](https://hpbn.co/)
-[Beej's Guide](https://beej.us/guide/bgnet/html/index-wide.html)
-[Nmap course](https://youtu.be/f6gwr333RZM)
-[TCP/IP V1](https://www.oreilly.com/library/view/tcpip-illustrated-volume/9780132808200/)
+| Level | Resource                                                                                                     | Description                                                                            |
+| ----- | ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
+| ★★★★☆ | [CCNP v1.1 350-401](https://www.youtube.com/playlist?list=PLxbwE86jKRgOb2uny1CYEzyRy_mc-lE39)                | Comprehensive video playlist covering the CCNP ENCOR 350-401 exam topics.              |
+| ★★★★☆ | [High Performance Browser Networking (HPBN)](https://hpbn.co/)                                               | Free online book focusing on web performance optimization and networking protocols.    |
+| ★★★☆☆ | [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/index-wide.html)                      | Beginner-friendly guide to network programming using sockets in C/C++.                 |
+| ★★★☆☆ | [Nmap Course](https://youtu.be/f6gwr333RZM)                                                                  | Beginner-friendly YouTube course on using Nmap for network scanning and enumeration.   |
+| ★★★★☆ | [TCP/IP Illustrated, Volume 1](https://www.oreilly.com/library/view/tcpip-illustrated-volume/9780132808200/) | In-depth book on TCP/IP protocols, focusing on practical examples and packet analysis. |
 
 ### _Extra_
 
