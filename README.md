@@ -14,7 +14,23 @@
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/SinMaven/Network-Security?style=for-the-badge&logo=Apache%20Spark&logoColor=%23ff0000&labelColor=%23000000&color=%23ffffff"></a>
 </p>
 
-![#7(34)](https://github.com/user-attachments/assets/a8df6ae6-f584-4ace-ba8f-42c057f4439f)
+![Banner](https://github.com/user-attachments/assets/a8df6ae6-f584-4ace-ba8f-42c057f4439f)
+
+## **Roadmap Overview**
+
+### **Study Plan**
+
+- **Study Time**: 20 hours per week
+- **Duration**: ~6 months (depending on pace)
+- **Total Hours**: ~480 hours
+
+### **Roadmap Goals**
+
+1. **Master Networking Fundamentals**: Understand core concepts like TCP/IP, DNS, routing, and switching.
+2. **Gain Hands-On Experience**: Practice with tools like Wireshark, Nmap, and Packet Tracer.
+3. **Achieve Industry Certifications**: Prepare for certifications like CCNA and CCNP.
+4. **Develop Advanced Skills**: Learn network forensics, intrusion detection, and advanced protocol analysis.
+5. **Build a Portfolio**: Complete challenges, labs, and projects to showcase your skills.
 
 <br>
 
@@ -43,20 +59,6 @@
 - [Follow-up Material — 0](https://github.com/dollarboysushil/CCNA-200-301)
 - [Follow-up Material — 1](https://github.com/nsalab-tmn/learn-ccna1)
 
-### _Challenges_
-
-- **[Root Me](https://www.root-me.org/en/Challenges/Network/)**  
-  Network-related challenges to test and improve your skills.
-
-- **[CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/?categories=network-forensics)**  
-  Blue team CTF challenges focused on network forensics.
-
-- **[Traffic Analysis](https://www.malware-traffic-analysis.net/training-exercises.html)**  
-  Training exercises for analyzing network traffic and detecting malware.
-
-- **[Packet Tracer Labs](https://www.youtube.com/playlist?list=PLxbwE86jKRgMQ4HTuaJ7yQgA2BoNwY9ct)**  
-  Hands-on labs using Cisco Packet Tracer for network simulation.
-
 ### **2 — Intermediate**
 
 | Level | Resource                                                                                                     | Description                                                                            |
@@ -73,6 +75,20 @@
 - [Follow-up Material — 1](https://github.com/manjunath5496/CCNA-CCNP-Books?tab=readme-ov-file)
 - [Follow-up Material — 2](https://www.ciscopress.com/store/routing-tcp-ip-volume-1-9781587052026)
 
+### _Challenges_
+
+- **[Root Me](https://www.root-me.org/en/Challenges/Network/)**  
+  Network-related challenges to test and improve your skills.
+
+- **[CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/?categories=network-forensics)**  
+  Blue team CTF challenges focused on network forensics.
+
+- **[Traffic Analysis](https://www.malware-traffic-analysis.net/training-exercises.html)**  
+  Training exercises for analyzing network traffic and detecting malware.
+
+- **[Packet Tracer Labs](https://www.youtube.com/playlist?list=PLxbwE86jKRgMQ4HTuaJ7yQgA2BoNwY9ct)**  
+  Hands-on labs using Cisco Packet Tracer for network simulation.
+
 <p align="center">
-Made with ❤️ SinMaven, 2024
+Made with ❤️ by SinMaven.
 </p>
