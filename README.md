@@ -43,7 +43,7 @@
 - [Follow-up Material — 0](https://github.com/dollarboysushil/CCNA-200-301)
 - [Follow-up Material — 1](https://github.com/nsalab-tmn/learn-ccna1)
 
-### **— Challenges**
+### _Challenges_
 
 - **[Root Me](https://www.root-me.org/en/Challenges/Network/)**  
   Network-related challenges to test and improve your skills.
