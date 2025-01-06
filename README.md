@@ -16,13 +16,15 @@
 
 ![Banner](https://github.com/user-attachments/assets/a8df6ae6-f584-4ace-ba8f-42c057f4439f)
 
-## **Roadmap Overview**
+<br>
 
 ### **Study Plan**
 
-- **Study Time**: 20 hours per week
-- **Duration**: ~6 months (depending on pace)
-- **Total Hours**: ~480 hours
+<p align="center">
+  <img src="https://img.shields.io/badge/Study%20Time-20%20Hours%2FWeek-blue?style=for-the-badge&logo=Clockify&logoColor=white" alt="Study Time">
+  <img src="https://img.shields.io/badge/Duration-~6%20Months-green?style=for-the-badge&logo=Calendar&logoColor=white" alt="Duration">
+  <img src="https://img.shields.io/badge/Total%20Hours-~480%20Hours-orange?style=for-the-badge&logo=Hourglass&logoColor=white" alt="Total Hours">
+</p>
 
 ### **Roadmap Goals**
 
@@ -31,8 +33,6 @@
 3. **Achieve Industry Certifications**: Prepare for certifications like CCNA and CCNP.
 4. **Develop Advanced Skills**: Learn network forensics, intrusion detection, and advanced protocol analysis.
 5. **Build a Portfolio**: Complete challenges, labs, and projects to showcase your skills.
-
-<br>
 
 ### Key to Star Levels
 
