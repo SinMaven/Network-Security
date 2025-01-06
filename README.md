@@ -32,6 +32,8 @@
 - **★★★★☆**: _Advanced_ — In-depth, certification-level content.
 - **★★★★★**: _Expert_ — Highly specialized, research-level material.
 
+### _Networking_
+
 ### **1 — Basics**
 
 | Level | Resource                                                                                                                                                                                  | Description                                                            |
@@ -78,6 +80,71 @@
 
 - **[Packet Tracer Labs](https://www.youtube.com/playlist?list=PLxbwE86jKRgMQ4HTuaJ7yQgA2BoNwY9ct)**  
   Hands-on labs using Cisco Packet Tracer for network simulation.
+
+---
+
+### _Web Security_
+
+### **1 — Basics**
+
+| Level | Resource                                                                                                                                                                           | Description                                                                                      |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| ★☆☆☆☆ | [Web Exploitation](https://youtu.be/ik2p4Rz4QzM)                                                                                                                                   | Beginner-friendly video introducing web exploitation concepts.                                   |
+| ★★☆☆☆ | [Hacker101](https://www.hacker101.com/resources)                                                                                                                                   | Free resources and tutorials from HackerOne, covering web vulnerabilities and bug bounty basics. |
+| ★★☆☆☆ | [MDN Web Docs](https://developer.mozilla.org/en-US/curriculum/)                                                                                                                    | Comprehensive guide to web development, including security best practices.                       |
+| ★★★☆☆ | [Stanford Web Security Course](https://web.stanford.edu/class/archive/cs/cs193x/cs193x.1176/hk)                                                                                    | Free course from Stanford University covering web security fundamentals.                         |
+| ★★★☆☆ | [Web Application Hacker's Handbook](https://www.pdfdrive.to/book/web-app-hacking-hackers-handbook)                                                                                 | Classic book on web app vulnerabilities and exploitation techniques.                             |
+| ★★★★☆ | [The Tangled Web](https://www.pdfdrive.to/dl/the-tangled-web-a-guide-to-securing-modern-web-applications-0)                                                                        | Guide to securing modern web applications, focusing on browser security.                         |
+| ★★★★☆ | [Web Application Security: Exploitation and Countermeasures](https://www.pdfdrive.to/book/web-application-security-exploitation-and-countermeasures-for-modern-web-applications-0) | Modern book on exploiting and securing web applications.                                         |
+
+### _Extra_
+
+- [Follow-up Material — 0](https://portswigger.net/web-security)  
+  PortSwigger Web Security Academy: Free, hands-on labs for learning and practicing web vulnerabilities.
+- [Follow-up Material — 1](https://owasp.org/www-project-juice-shop/)  
+  OWASP Juice Shop: A vulnerable web app for practicing OWASP Top 10 vulnerabilities.
+- [Follow-up Material — 2](https://xss-game.appspot.com/)  
+  XSSGame: A fun and interactive platform to learn and practice XSS vulnerabilities.
+
+### **2 — Intermediate**
+
+| Level | Resource                                                                                      | Description                                                                                    |
+| ----- | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| ★★★☆☆ | [OSCP Preparation](https://youtu.be/HUmtfFKKWWc)                                              | Video guide to preparing for the OSCP certification, which includes web exploitation.          |
+| ★★★☆☆ | [Cybeta Web Security Learning](https://chybeta.github.io/2017/08/19/Web-Security-Learning/)   | Curated list of web security resources and learning paths.                                     |
+| ★★★★☆ | [Metasploitable2](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/)     | Vulnerable virtual machine for practicing penetration testing, including web app exploitation. |
+| ★★★★☆ | [Advanced Web Attacks and Exploitation (AWAE)](https://www.offensive-security.com/awae-oswe/) | Advanced course on web app exploitation, including source code review and custom exploits.     |
+
+### _Extra_
+
+- [Follow-up Material — 0](https://github.com/bugcrowd/bugcrowd_university)  
+  Bugcrowd University: Free resources for learning bug bounty hunting and web app security.
+- [Follow-up Material — 1](https://github.com/swisskyrepo/PayloadsAllTheThings)  
+  PayloadsAllTheThings: A repository of payloads and bypass techniques for web app vulnerabilities.
+
+### **3 — Advanced**
+
+| Level | Resource                                                                                                           | Description                                                                                              |
+| ----- | ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
+| ★★★★★ | [OSCE3 Complete Guide](https://github.com/CyberSecurityUP/OSCE3-Complete-Guide?tab=readme-ov-file)                 | A comprehensive guide for OSCE3 (OSWE, OSEP, OSED, OSEE) with free resources, tips, and study materials. |
+| ★★★★★ | [My First Year in InfoSec: Zero to OSCE3](https://infosec.jaelkoh.com/2024/my-first-year-in-infosec-zero-to-osce3) | A personal blog post detailing a journey from zero to OSCE3, with tips and resources.                    |
+
+### _Challenges_
+
+- **[PortSwigger Web Security Academy](https://portswigger.net/web-security)**  
+  Free, hands-on labs for learning and practicing web vulnerabilities.
+- **[OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)**  
+  A vulnerable web app for practicing OWASP Top 10 vulnerabilities.
+- **[XSSGame](https://xss-game.appspot.com/)**  
+  A fun and interactive platform to learn and practice XSS vulnerabilities.
+- **[DVWA (Damn Vulnerable Web Application)](https://dvwa.co.uk/)**  
+  A PHP/MySQL web app designed for practicing web security vulnerabilities.
+- **[bWAPP](http://www.itsecgames.com/)**  
+  A buggy web app for learning and practicing web security.
+- **[W3Challs](https://w3challs.com/)**  
+  A platform with challenges covering web, cryptography, and forensics.
+
+---
 
 <p align="center">
 Made with ❤️ by SinMaven.
