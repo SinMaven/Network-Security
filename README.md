@@ -38,9 +38,10 @@
 | ★★★★☆ | [Assignment — 0](https://www.scs.stanford.edu/10au-cs144/)                                                                                                                                | Stanford University assignments for practicing networking concepts.    |
 | ★★★★★ | [Assignment — 1](https://github.com/feamster/COS461-Public)                                                                                                                               | Advanced assignments and resources for in-depth networking coursework. |
 
-- [Follow-up Material 0](https://github.com/dollarboysushil/CCNA-200-301)
-- [Follow-up Material 1](https://github.com/nsalab-tmn/learn-ccna1)
-- [Follow-up Material 2](https://github.com/manjunath5496/CCNA-CCNP-Books?tab=readme-ov-file)
+- Extra
+
+— [Follow-up Material — 0](https://github.com/dollarboysushil/CCNA-200-301)
+— [Follow-up Material — 1](https://github.com/nsalab-tmn/learn-ccna1)
 
 ### **— Challenges**
 
@@ -57,6 +58,16 @@
   Hands-on labs using Cisco Packet Tracer for network simulation.
 
 ### **2 — Intermediate**
+
+[CCNP v1.1 350-401](https://www.youtube.com/playlist?list=PLxbwE86jKRgOb2uny1CYEzyRy_mc-lE39)
+[High Performance BN](https://hpbn.co/)
+[Beej's Guide](https://beej.us/guide/bgnet/html/index-wide.html)
+[Nmap course](https://youtu.be/f6gwr333RZM)
+
+- Extra
+
+— [Follow-up material — 0](https://github.com/benpiper/ccnp-enterprise?tab=readme-ov-file)
+— [Follow-up Material — 1](https://github.com/manjunath5496/CCNA-CCNP-Books?tab=readme-ov-file)
 
 <p align="center">
 Made with ❤️ SinMaven, 2024
