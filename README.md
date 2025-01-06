@@ -20,19 +20,9 @@
 
 ### **Study Plan**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Study%20Time-20%20Hours%2FWeek-blue?style=for-the-badge&logo=Clockify&logoColor=white" alt="Study Time">
-  <img src="https://img.shields.io/badge/Duration-~6%20Months-green?style=for-the-badge&logo=Calendar&logoColor=white" alt="Duration">
-  <img src="https://img.shields.io/badge/Total%20Hours-~480%20Hours-orange?style=for-the-badge&logo=Hourglass&logoColor=white" alt="Total Hours">
-</p>
-
-### **Roadmap Goals**
-
-1. **Master Networking Fundamentals**: Understand core concepts like TCP/IP, DNS, routing, and switching.
-2. **Gain Hands-On Experience**: Practice with tools like Wireshark, Nmap, and Packet Tracer.
-3. **Achieve Industry Certifications**: Prepare for certifications like CCNA and CCNP.
-4. **Develop Advanced Skills**: Learn network forensics, intrusion detection, and advanced protocol analysis.
-5. **Build a Portfolio**: Complete challenges, labs, and projects to showcase your skills.
+- **Study Time**: 30 hours per week
+- **Duration**: ~6 months (depending on pace)
+- **Total Hours**: ~480 hours
 
 ### Key to Star Levels
 
